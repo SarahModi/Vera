@@ -1,0 +1,8 @@
+boto3>=1.28.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+rich>=13.5.0
+click>=8.1.0
+PyGithub>=2.0.0
+tqdm>=4.65.0
